@@ -46,7 +46,7 @@
   <!--Section heading-->
   <h2 class="h1-responsive font-weight-bold text-center my-4">Contact me</h2>
   <!--Section description-->
-  <p class="text-center w-responsive mx-auto mb-5">Please feel free to contact me about anything from computer science to tutoring enquies, even how to make a bearnaise sauce!</p>
+  <p class="text-center w-responsive mx-auto mb-5">Please feel free to contact me about anything from computer science to tutoring enquiries, even how to make a bearnaise sauce!</p>
 
   <div class="row">
 

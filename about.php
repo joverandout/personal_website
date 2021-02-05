@@ -31,10 +31,11 @@
         <div class="inner">
           <h3 class="masthead-brand">Joe</h3>
           <nav class="nav nav-masthead justify-content-center">
-            <a class="nav-link" href="home.php">Home</a>
+            <a class="nav-link" href="home.html">Home</a>
             <a class="nav-link active" href="#">About</a>
-            <a class="nav-link" href="#">Projects</a>
-            <a class="nav-link" href="contact.php">Contact</a>
+            <a class="nav-link" href="projects.html">Projects</a>
+            <a class="nav-link" href="tutoring.html">Tutoring</a>
+            <a class="nav-link" href="contact.html">Contact</a>
           </nav>
         </div>
       </header>
@@ -43,7 +44,7 @@
             <p></p>
             <p class="lead">I am a second year undergraduate at the University of Warwick, studying Computer Science, with a keen interest in functional programming, artificial intelligence and cyber security.</p>
             <p class="lead">Outside of my degree I enjoy cooking, cycling and playing utltimate frisbee</p>
-            <p class="lead">You can find me on <a href="https://github.com/joverandout" target=_blank>GitHub</a> and <a href="https://twitter.com/Joe_Moore_101" taget=_blank>Twitter</a>.</p>
+            <p class="lead">You can find me on <a href="https://github.com/joverandout">GitHub</a> and <a href="https://twitter.com/Joe_Moore_101">Twitter</a>.</p>
         </main>
 
       <footer class="mastfoot mt-auto">

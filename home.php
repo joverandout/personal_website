@@ -32,9 +32,10 @@
           <h3 class="masthead-brand">Joe</h3>
           <nav class="nav nav-masthead justify-content-center">
             <a class="nav-link active" href="#">Home</a>
-            <a class="nav-link" href="about.php">About</a>
-            <a class="nav-link" href="#">Projects</a>
-            <a class="nav-link" href="contact.php">Contact</a>
+            <a class="nav-link" href="about.html">About</a>
+            <a class="nav-link" href="projects.html">Projects</a>
+            <a class="nav-link" href="tutoring.html">Tutoring</a>
+            <a class="nav-link" href="contact.html">Contact</a>
           </nav>
         </div>
       </header>

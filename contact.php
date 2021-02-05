@@ -31,9 +31,10 @@
         <div class="inner">
           <h3 class="masthead-brand">Joe</h3>
           <nav class="nav nav-masthead justify-content-center">
-            <a class="nav-link" href="home.php">Home</a>
-            <a class="nav-link" href="about.php">About</a>
+            <a class="nav-link" href="home.html">Home</a>
+            <a class="nav-link" href="about.html">About</a>
             <a class="nav-link" href="projects.html">Projects</a>
+            <a class="nav-link" href="tutoring.html">Tutoring</a>
             <a class="nav-link active" href="#">Contact</a>
           </nav>
         </div>
@@ -45,7 +46,7 @@
   <!--Section heading-->
   <h2 class="h1-responsive font-weight-bold text-center my-4">Contact me</h2>
   <!--Section description-->
-  <p class="text-center w-responsive mx-auto mb-5">Please feel free to contact me about anything from computer science to how to make a bearnaise sauce!</p>
+  <p class="text-center w-responsive mx-auto mb-5">Please feel free to contact me about anything from computer science to tutoring enquies, even how to make a bearnaise sauce!</p>
 
   <div class="row">
 
@@ -106,7 +107,7 @@
           </form>
 
           <div class="text-center text-md-left">
-              <a class="btn btn-primary" document.getElementById('contact-form').submit();">Send</a>">Send</a>          </div>
+              <a class="btn btn-primary" onclick="validateForm();">Send</a>          </div>
           <div class="status"></div>
       </div>
       <!--Grid column-->
@@ -122,7 +123,7 @@
                   <p>07508617059</p>
 
               <li><i class="fas fa-envelope mt-4 fa-2x"></i>
-                  <p>Joe.Moore@Warwick.ac.uk</p>
+                  <p style="margin-right:7em;">joverandout@gmail.com</p>
               </li>
           </ul>
       </div>

@@ -53,8 +53,8 @@
         <div><a class ="social" href="https://twitter.com/Joe_Moore_101" target=_blank><i class="fab fa-twitter"></i></a>
         <a class ="social" href="mailto:joe.moore@warwick.ac.uk" target=_blank><i class="fas fa-envelope"></i></a>
         <a class ="social" href="https://github.com/joverandout" target=_blank><i class="fab fa-github"></i></a>
-        <a class ="social" href="cv.docx"><i class="fas fa-file-alt" target=_blank></i></i></a>
-        <a class ="social" href="https://www.linkedin.com/in/joe-moore-2b79b01ba/"><i class="fab fa-linkedin-in" target=_blank></i></i></a>   
+        <a class ="social" href="cv2.pdf" target=_blank><i class="fas fa-file-alt" target=_blank></i></i></a>
+        <a class ="social" href="https://www.linkedin.com/in/joe-moore-2b79b01ba/"target=_blank ><i class="fab fa-linkedin-in"></i></i></a>   
         </div>
     </div>
 

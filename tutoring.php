@@ -32,29 +32,33 @@
           <h3 class="masthead-brand">Joe</h3>
           <nav class="nav nav-masthead justify-content-center">
             <a class="nav-link" href="home.html">Home</a>
-            <a class="nav-link active" href="#">About</a>
+            <a class="nav-link" href="about.html">About</a>
             <a class="nav-link" href="projects.html">Projects</a>
-            <a class="nav-link" href="tutoring.html">Tutoring</a>
+            <a class="nav-link active" href="#">Tutoring</a>
             <a class="nav-link" href="contact.html">Contact</a>
           </nav>
         </div>
       </header>
         <main role="main" class="inner cover">
-            <h1 class="cover-heading">About me</h1>
+          <br>
+          <br>
+            <h1 class="cover-heading">Tutoring</h1>
             <p></p>
-            <p class="lead">I am a second year undergraduate at the University of Warwick, studying Computer Science, with a keen interest in functional programming, artificial intelligence and cyber security.</p>
-            <p class="lead">Outside of my degree I enjoy cooking, cycling and playing utltimate frisbee</p>
-            <p class="lead">You can find me on <a href="https://github.com/joverandout">GitHub</a> and <a href="https://twitter.com/Joe_Moore_101">Twitter</a>.</p>
-        </main>
+            <p class="lead">I am an experienced and committed tutor of Maths, Computer Science and Programming. I teach all the way from 11+ and 13+ entrance exams to prep and secondary schools to A Level and even University level (in the case of programming).</p>
+            <p class="lead">In terms of programming languages I have degree level knowledge in Python, Java, C#, C, Haskell and SQL. Maths and Computer Science tutoring starts from £23/hour with Programming starting from £28/hour</p>
+            <p class = "lead">Below are some exmaples of the comprehensive notes I make for my students:</p>
+            <p></p>
+            <a class ="social" href="haskell notes.pdf" target=_blank><i class="fas fa-file-alt"></i></i></a>&#09;<a class ="social" href="java notes.pdf" target=_blank><i class="fas fa-file-alt"></i></i></a>
+            </main>
 
-        <footer class="mastfoot mt-auto">
-          <p></p>
-          <div><a class ="social" href="https://twitter.com/Joe_Moore_101" target=_blank><i class="fab fa-twitter"></i></a>
-          <a class ="social" href="mailto:joe.moore@warwick.ac.uk" target=_blank><i class="fas fa-envelope"></i></a>
-          <a class ="social" href="https://github.com/joverandout" target=_blank><i class="fab fa-github"></i></a>
-          <a class ="social" href="cv2.pdf" target=_blank><i class="fas fa-file-alt" target=_blank></i></i></a>
-          <a class ="social" href="https://www.linkedin.com/in/joe-moore-2b79b01ba/"target=_blank ><i class="fab fa-linkedin-in"></i></i></a>   
-          </div>
+            <footer class="mastfoot mt-auto">
+              <p></p>
+              <div><a class ="social" href="https://twitter.com/Joe_Moore_101" target=_blank><i class="fab fa-twitter"></i></a>
+              <a class ="social" href="mailto:joe.moore@warwick.ac.uk" target=_blank><i class="fas fa-envelope"></i></a>
+              <a class ="social" href="https://github.com/joverandout" target=_blank><i class="fab fa-github"></i></a>
+              <a class ="social" href="cv2.pdf" target=_blank><i class="fas fa-file-alt" target=_blank></i></i></a>
+              <a class ="social" href="https://www.linkedin.com/in/joe-moore-2b79b01ba/"target=_blank ><i class="fab fa-linkedin-in"></i></i></a>   
+              </div>
     </div>
 
 

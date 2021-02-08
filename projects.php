@@ -31,11 +31,11 @@
         <div class="inner">
           <h3 class="masthead-brand">Joe</h3>
           <nav class="nav nav-masthead justify-content-center">
-            <a class="nav-link" href="home.html">Home</a>
-            <a class="nav-link" href="about.html">About</a>
+            <a class="nav-link" href="home.php">Home</a>
+            <a class="nav-link" href="about.php">About</a>
             <a class="nav-link active" href="#">Projects</a>
-            <a class="nav-link" href="tutoring.html">Tutoring</a>
-            <a class="nav-link" href="contact.html">Contact</a>
+            <a class="nav-link" href="tutoring.php">Tutoring</a>
+            <a class="nav-link" href="contact.php">Contact</a>
           </nav>
         </div>
       </header>
